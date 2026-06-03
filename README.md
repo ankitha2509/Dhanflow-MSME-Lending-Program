@@ -23,4 +23,4 @@ program documentation.
 - KYC Pass Rate: 80%
 
 ## Notion Documentation
-[View Full Documentation](paste notion link here)
+[View Full Documentation](https://pollen-surgeon-b4c.notion.site/Dhanflow-End-to-End-MSME-Lending-Program-37457963d9278087b3f4d287a16edf89?source=copy_link)
